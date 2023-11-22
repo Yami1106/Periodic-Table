@@ -6,7 +6,7 @@
 #include "elementinfo.h"
 int i;
 void srch();
-
+//clear screen function 
 void clrscr() {
     system("@cls||clear");
 }
@@ -22,7 +22,7 @@ void newScreen() {
 		printf("\n");
 	}
 }
-
+//quit the app
 void quit() {
 	newScreen();
 	char ans[5];

@@ -1,42 +1,31 @@
 <div align="center">
 
-<pre>
-╔════════════════════════╗
-║     💻  Periodic-Table  💻     ║
-╚════════════════════════╝
-</pre>
+# Periodic Table — C
 
-## Project Repository
+![Stars](https://img.shields.io/github/stars/Yami1106/Periodic-Table?style=for-the-badge)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-
+*An interactive periodic table lookup tool written in C.*
 
 </div>
 
 ---
 
-## About
-
-A Python project repository. See the source code for details.
-
----
-
 ## Features
 
-- See source code for details
+- Look up elements by atomic number or symbol
+- Displays: name, symbol, atomic number, atomic mass, group, period, electron configuration
+- All 118 elements stored in a structured data array
+- CLI interface for fast queries
 
 ---
 
-## Tech Stack
+## Tech stack
 
-_See source_
-
----
-
-## Author
-
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`C` · `GCC`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
